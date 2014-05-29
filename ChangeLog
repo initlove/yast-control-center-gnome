@@ -1,6 +1,6 @@
 -------------------------------------------------------------------
 Thu Sep 26 08:14:01 UTC 2013 - lslezak@suse.cz
-
+-  dliang test git 
 - fixed repeated start of a Yast module (bnc#827704) (by Michael
   Catanzaro)
 - 3.0.1
